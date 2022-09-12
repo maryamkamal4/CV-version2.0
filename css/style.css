@@ -1,0 +1,159 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    color: #66BFBF;
+
+}
+
+hr {
+    margin: 100px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 5px;
+    width: 5%;
+  }
+.p1 {
+    margin-top: 0px;
+    color: #66BFBF;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 200%;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 56px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: auto;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    margin-top: 80px;
+    background-color: #66BFBF;
+}
+
+.btn {
+    position: relative;
+    top: 40px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #EAF6F6;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #C1EFFF
+}
+
+.skills {
+    height: 430px;
+}
+
+.top-c {
+    position: absolute;
+    top: 80px;
+    right: 400px;
+}
+
+.bot-c {
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 80px;
+    line-height: 2;
+    text-align: left;
+}
+
+
+.skill-text {
+    width: 105%;
+}
+
+.contact-me {
+    line-height: 1.5;
+    height: 250px;
+}
+
+.coding-img {
+    width: 25%;
+    text-align: left;
+    float: left;
+    margin-right: 30px;
+}
+
+.cooking-img {
+    width: 25%;
+    text-align: left;
+    float: left;
+    margin-right: 30px;
+}
+
+.hacker-img {
+    width: 12%;
+}
+
+.last-p {
+    color: #C1EFFF;
+    font-size: 0.75rem;
+    padding: 10px 0;
+}
